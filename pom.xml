@@ -31,8 +31,8 @@
   <distributionManagement>
     <repository>
       <id>cloudbees-private-release-repository</id>
-      <name>CloudBees Repository</name>
-      <url>dav:https://repository-evntcast.forge.cloudbees.com/release/</url>
+      <name>CloudBees TwitSprout Repository</name>
+      <url>dav:https://repository-twitsprout.forge.cloudbees.com/release/</url>
     </repository>
   </distributionManagement>
 
